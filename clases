@@ -1,0 +1,8 @@
+En elemento vídeo y elemento audio usa la misma estructura,
+
+<audio controls>
+ <source src="dirección del vídeo", type="tipo del vídeo">
+ your browser couldnt display this video
+ </audio>
+ 
+  
