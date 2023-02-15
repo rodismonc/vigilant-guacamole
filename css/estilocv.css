@@ -1,0 +1,30 @@
+h3{
+        padding: 5px;
+    margin-top: 3px;
+    font-size:x-large;
+}
+
+
+#Datos_personales{
+     border: 1px solid black;
+     text-underline-position: auto;
+     background:#bd84b31e;
+     position:fixed;
+     justify-content: center;
+     align-items: center;
+     color:black;
+     font-size: medium;
+     width:40%
+    }
+
+#Antecedentes {
+    border: 1px solid black;
+    text-underline-position: auto;
+    background:#7753701e;
+    position:fixed;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    font-size: medium;
+    width:40%
+}
